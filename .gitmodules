@@ -1,0 +1,3 @@
+[submodule "laberler-web"]
+	path = laberler-web
+	url = https://github.com/frohmanthenoob/laberler-web
